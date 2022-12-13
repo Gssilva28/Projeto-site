@@ -39,3 +39,7 @@ a:hover {
     text-decoration: underline;
     color:  rgb(26, 26, 255);
 }
+
+abbr {
+    font-variant: none;
+}
